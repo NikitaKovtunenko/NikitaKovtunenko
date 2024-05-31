@@ -4,11 +4,13 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI4YWRhZ2p1bWwwMnFyc2xueXdnd280N2UyZjg3d3Judmp5bnRkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/119pLwyWg8ScTK/giphy.gif" width="300" height="300"/>
 </div>
 
 <div id="badges">
+  <a href="https://t.me/nikita0333776">
   <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logocolor=white&style=for-the-badge"/>
+  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=NikitaKovtunenko&style=flat-square&color=blue" alt=""/>
 
