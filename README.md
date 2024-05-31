@@ -3,17 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW84ZWZ0dTN5OWEya2ZhMHI2eXdreG5yNHczaTMzcDBtOHM5bmNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 <div id="badges">
   <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logocolor=white&style=for-the-badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=NikitaKovtunenko&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+ 
 ### :woman_technologist: About Me :
 ---
 
