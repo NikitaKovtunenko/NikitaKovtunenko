@@ -20,6 +20,7 @@
 Опыт
 ---
 Я действующий разработчик, пишу программу для управления производственными линиями, аналог CODESYS. На данный момент реализовал МЭК языки (SFC, LD, FDB). Работаю и продолжаю учиться.
+
 --- 
 
 Хобби
@@ -31,6 +32,7 @@ Hackerrank:
 https://www.hackerrank.com/visual_studio
 Leetcode:
 https://leetcode.com/kiton_/
+
 ---
  
 ### :hammer_and_wrench: Languages and Tools :
