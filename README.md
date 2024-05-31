@@ -18,9 +18,17 @@
 ---
 
 Опыт
+Я действующий разработчик, пишу программу для управления производственными линиями, аналог CODESYS. На данный момент реализовал МЭК языки (SFC, LD, FDB). Работаю и продолжаю учиться.
 --- 
 
 Хобби
+Помогаю студентам с решением задач, есть аккаунт на авито (много отзывов), считаю , что это хороший показатель софт скилов.
+https://www.avito.ru/moskva/predlozheniya_uslug/pomosch_studentam_po_programmirovaniyu_ss_qt_2429070535
+В свободное время решаю задачи на разных платформах.
+Hackerrank:
+https://www.hackerrank.com/visual_studio
+Leetcode:
+https://leetcode.com/kiton_/
 ---
  
 ### :hammer_and_wrench: Languages and Tools :
@@ -32,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 
 </div>
+
 ---
 
 ### :fire: My Stats :
